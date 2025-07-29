@@ -27,10 +27,9 @@
 ### Quick Start
 
 1. **Clone the repository**
-
 ```bash
-git clone https://github.com/yourusername/salary-prediction.git
-cd salary-prediction
+git clone https://github.com/yourusername/Salary-Predictor.git
+cd Salary-Predictor
 ```
 
 2. **Install dependencies**
@@ -104,7 +103,7 @@ Raw Data → Cleaning → Feature Encoding → Scaling → Model Training → Ev
 ## 📁 Project Structure
 
 ```
-salary-prediction/
+Salary-Predictor/
 │
 ├── app.py                          # Streamlit web application
 ├── improved_salary_model.py        # ML pipeline & training
